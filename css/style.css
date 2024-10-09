@@ -264,6 +264,7 @@ section {
 }
 #text-carousel-intro-section .container {
 	height: 100%;
+	cursor: grab;
 }
 #text-carousel-intro-section .caption {
 	position: relative;
