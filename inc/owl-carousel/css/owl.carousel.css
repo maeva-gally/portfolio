@@ -18,6 +18,7 @@
 	display: none;
 	position: relative;
 	-webkit-transform: translate3d(0px, 0px, 0px);
+	cursor: grab;
 }
 .owl-carousel .owl-wrapper-outer{
 	overflow: hidden;
