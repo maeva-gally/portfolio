@@ -264,12 +264,12 @@ section {
 }
 #text-carousel-intro-section .container {
 	height: 100%;
-	cursor: grab;
 }
 #text-carousel-intro-section .caption {
 	position: relative;
 	top: 50%;
 	margin-top: -70px;
+	cursor: grab;
 }
 #text-carousel-intro-section .caption h1 {
 	margin-top: 0;
