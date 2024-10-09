@@ -6,7 +6,6 @@
 	visibility: hidden;
 	line-height: 0;
 	height: 0;
-	cursor: grabbing;
 }
 /* display none until init */
 .owl-carousel{
@@ -52,7 +51,7 @@
 
 /* mouse grab icon */
 .grabbing { 
-    cursor:url(grabbing.png) 8 8, move;
+    cursor: grabbing;
 }
 
 /* fix */
