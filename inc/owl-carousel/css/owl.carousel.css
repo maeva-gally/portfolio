@@ -6,6 +6,7 @@
 	visibility: hidden;
 	line-height: 0;
 	height: 0;
+	cursor: grabbing;
 }
 /* display none until init */
 .owl-carousel{
